@@ -9,4 +9,4 @@ To set up and run the web server:
 4. In a web browser navigate to http://localhost:<your_portnumber_here> and make requests for files that are present in the root directory mentioned in the previous command.
 
 (Refer to Server Log screenshot in readme if required)
-(Screenshots/ServerSetup.png)
+![Server Setup](Screenshots/ServerSetup.png)
